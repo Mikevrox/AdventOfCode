@@ -1,0 +1,1 @@
+This project is purely created to participate in the Advent of Code 2021 edition.
